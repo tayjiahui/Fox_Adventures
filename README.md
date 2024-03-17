@@ -1,6 +1,6 @@
 # Fox_Adventures
 
-Instructions to download the game 
+Instructions to download the game (windows only)
 1. Go to Release v1.0
 2. Download the Fox.Adventures.zip
 3. Extract files
