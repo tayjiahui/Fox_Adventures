@@ -10,9 +10,8 @@ Instructions to download the game
 How to play?
 
 - You are a fox mother going out to bring back cherries for your kid to eat. 
-
-A - move Left 
-D - move Right 
-Space - jump
+- A -> move Left 
+- D -> move Right 
+- Space -> jump
 
 Jump on enemies to kill them 
