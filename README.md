@@ -8,7 +8,8 @@ Instructions to download the game
 5. Right click -> open -> more info -> run anyway :)
 
 How to play?
-You are a fox mother going out to bring back cherries for your kid to eat. 
+
+- You are a fox mother going out to bring back cherries for your kid to eat. 
 
 A - move Left 
 D - move Right 
