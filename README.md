@@ -1,5 +1,7 @@
 # Fox_Adventures
 
+Video Recording of game play: https://youtu.be/lFq9QZY7VSA
+
 Instructions to download the game (windows only)
 1. Go to Release v1.0
 2. Download the Fox.Adventures.zip
