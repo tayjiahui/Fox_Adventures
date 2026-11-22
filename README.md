@@ -1,5 +1,7 @@
 # Fox_Adventures
 
+Game Bugged and requires fixing
+
 Video Recording of game play: https://youtu.be/lFq9QZY7VSA
 
 Instructions to download the game (windows only)
@@ -7,7 +9,7 @@ Instructions to download the game (windows only)
 2. Download the Fox.Adventures.zip
 3. Extract files
 4. Find Fox Adventures application
-5. Right click -> open -> more info -> run anyway :)
+5. Right click -> open -> more info -> run anyway
 
 How to play?
 
